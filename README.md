@@ -1,9 +1,9 @@
-# 👋 Привет! / Hi there! I'm Igor Sbitnev
+# 👋 Привет! / Hi there! I'm Suk4r
 
 ## 🇷🇺 Русская версия
 
 ### 👨‍💻 Обо мне
-Я — **Игорь Сбитнев**, начинающий backend-разработчик. Занимаюсь созданием ботов, сервисов и автоматизацией процессов. Люблю изучать новые технологии и писать понятный, поддерживаемый код.
+Я — **Sukh4r**,начинающий backend-разработчик. Занимаюсь созданием ботов, сервисов и автоматизацией процессов. Люблю изучать новые технологии и писать понятный, поддерживаемый код.
 
 ### 🧑‍💻 Что я умею
 - 🔹 Пишу на **Go** и **Python**
@@ -26,7 +26,7 @@
 ## 🇬🇧 English Version
 
 ### 👨‍💻 About Me
-I'm **Igor Sbitnev**, a junior backend developer passionate about building bots, backend services, and automation tools. I enjoy learning new technologies and writing clean, maintainable code.
+I'm **Sukh4r**, a junior backend developer passionate about building bots, backend services, and automation tools. I enjoy learning new technologies and writing clean, maintainable code.
 
 ### 🧑‍💻 What I Do
 - 🔹 Write in **Go** and **Python**
